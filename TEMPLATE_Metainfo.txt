@@ -1,5 +1,5 @@
 
-Name of Quantlet: MUST NOT BE EMPTY!
+Name of Quantlet: DTD_SMC
 
 Published in: MUST NOT BE EMPTY!
 
